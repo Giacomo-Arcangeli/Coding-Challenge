@@ -1,0 +1,74 @@
+body{
+    background-image: url(background.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+#container{
+    width: 900px;
+    height: 710px;
+    margin: auto;
+    background-color: rgba(0,0,0,0.5);
+    border-radius: 20px;
+}
+
+header img{
+    display: block;
+    margin: auto;
+    width: 300px;
+    padding-top: 50px
+}
+
+header h1{
+    text-align: center;
+    color: rgb(13, 240, 13);
+    font-family: 'MuseoModerno', cursive;
+}
+
+nav div{
+    background-color: rgb(13, 240, 13);
+    width: 700px;
+    height: 50px;
+    margin: auto;
+}
+
+.button-position{
+    width: 320px;
+    margin: auto;
+    line-height: 47px;
+}
+
+main{
+    color: white;
+    width: 700px;
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.scooter-name{
+    display: inline;
+}
+
+#charge-1{
+    background-color: orange;
+    height: 25px;
+    width: 250px;
+    margin-left: 0px;
+    border-radius: 5px;
+}
+
+#charge-2{
+    background-color: green;
+    height: 25px;
+    width: 450px;
+    margin-left: 0px;
+    border-radius: 5px;
+}
+
+#charge-3{
+    background-color: red;
+    height: 25px;
+    width: 120px;
+    margin-left: 0px;
+    border-radius: 5px;
+}
